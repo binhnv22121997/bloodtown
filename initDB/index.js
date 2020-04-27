@@ -1,0 +1,15 @@
+require('../container/gym');
+require('../container/hospital');
+require('../container/level');
+require('../container/pet');
+require('../container/property');
+require('../container/school');
+require('../container/shop/item');
+require('../container/upgrade/garage');
+require('../container/upgrade/hangar');
+require('../container/upgrade/home');
+require('../container/upgrade/quay');
+require('../container/vehicles/boat');
+require('../container/vehicles/plane');
+require('../container/vehicles/roadVehicle');
+require('../container/work');

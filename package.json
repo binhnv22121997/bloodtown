@@ -1,0 +1,22 @@
+{
+  "name": "api",
+  "version": "1.0.0",
+  "private": true,
+  "main": "index.js",
+  "license": "none",
+  "scripts": {
+    "start": "nodemon -r dotenv/config app.js"
+  },
+  "dependencies": {
+    "aes256": "^1.0.4",
+    "axios": "^0.19.2",
+    "body-parser": "^1.17.1",
+    "crypto-js": "^4.0.0",
+    "dotenv": "^8.2.0",
+    "express": "^4.15.2",
+    "mongoose": "^5.9.3",
+    "nodemon": "^1.19.4",
+    "socket.io": "^2.3.0",
+    "toobusy-js": "^0.5.1"
+  }
+}
